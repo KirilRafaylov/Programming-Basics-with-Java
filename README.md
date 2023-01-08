@@ -3,12 +3,12 @@
 
 
 
-__**Description**__
+## __**Description**__
 
 
 
 
-In this repo you can find all the tasks and the solutions from the following course __Programming Basics with Java__ held by www.softuni.bg
+In this repo you can find all the tasks and the solutions from lectures and exercises from the following course __Programming Basics with Java__ held by www.softuni.bg
 - __Conditional Statements__
 - __For Loop__
 - __While Loop__
@@ -18,7 +18,7 @@ In this repo you can find all the tasks and the solutions from the following cou
 
 
 
-__**Certificate from www.softuni.bg**__
+## __**Certificate from www.softuni.bg**__
                                                                 
                                                                 
                                                                 
@@ -26,4 +26,4 @@ __**Certificate from www.softuni.bg**__
 
 
 
-Created by __**Kiril Rafaylov**__
+### Created by __**Kiril Rafaylov**__
