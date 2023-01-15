@@ -10,7 +10,7 @@
 
 
 
-In this repo you can find all the tasks from lectures and exercises from the following course __Programming Basics with Java__ held by www.softuni.bg and my solutions to the following tasks.
+In this repo you can find all the tasks from lectures and exercises from the following course __Programming Basics with Java__ held by www.softuni.bg and my solutions to all tasks.
 - __Conditional Statements__
 - __For Loop__
 - __While Loop__
