@@ -8,6 +8,10 @@ In this repo you can find all the tasks from lectures and exercises included in 
 
 
 
+
+
+
+
 - __Conditional Statements__
 - __For Loop__
 - __While Loop__
